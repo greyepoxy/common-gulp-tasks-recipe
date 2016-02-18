@@ -1,2 +1,2 @@
 # common-gulp-tasks-recipe
-An example using the common-gulp-tasks
+An example using https://github.com/greyepoxy/common-gulp-tasks
