@@ -1,3 +1,10 @@
+# Generated Test Files
+**/dist/**/specs
+**/dist/**/tests
+**/dist/_bundles/tests*
+**/dist/_bundles/specs*
+**/dist/**/_specRunner/*
+
 # Logs
 logs
 *.log
