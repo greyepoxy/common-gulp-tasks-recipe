@@ -1,3 +1,4 @@
+"use strict";
 function GetBFor(num) {
     return BImpl.getInstance(num);
 }

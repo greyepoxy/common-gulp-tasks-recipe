@@ -1,6 +1,6 @@
 {
   "name": "@greyepoxy/common-gulp-tasks-recipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "example usage of common gulp tasks modules.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +19,7 @@
     "babel-preset-es2015": "^6.5.0",
     "babelify": "^7.2.0",
     "gulp": "^3.9.1",
-    "@greyepoxy/common-gulp-tasks": "greyepoxy/common-gulp-tasks"
+    "@greyepoxy/common-gulp-tasks": "greyepoxy/common-gulp-tasks",
+    "@greyepoxy/common-gulp-typescript-build-task": "greyepoxy/common-gulp-typescript-build-task"
   }
 }

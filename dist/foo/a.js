@@ -1,4 +1,5 @@
-var b_1 = require('./b');
+"use strict";
+const b_1 = require('./b');
 function GetA() {
     return new AImpl();
 }
